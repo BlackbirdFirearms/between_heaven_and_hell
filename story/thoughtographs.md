@@ -16,6 +16,8 @@ _Thoughtography by Inominata_
 
 <img src="../assets/images/gje_min_ande_heilag_fred.jpg" />
 
+<img src="../assets/images/in_hell_we_burn.png" />
+
 <br />
 
 [目录](../)
