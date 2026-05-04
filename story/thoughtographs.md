@@ -18,6 +18,8 @@ _Thoughtography by Inominata_
 
 <img src="../assets/images/in_hell_we_burn.png" />
 
+<img src="../assets/images/hth.png" />
+
 <br />
 
 [目录](../)
