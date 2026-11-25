@@ -2,7 +2,7 @@
 layout: default
 ---
 
-_Thoughtography by Inominata_
+_Thoughtography by Inominata & 赫连冰子_
 
 [目录](../)
 
@@ -19,6 +19,8 @@ _Thoughtography by Inominata_
 <img src="../assets/images/in_hell_we_burn.png" />
 
 <img src="../assets/images/hth.png" />
+
+<img src="../assets/images/you_have_to_wonder.png" />
 
 <br />
 
