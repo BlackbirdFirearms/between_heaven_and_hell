@@ -2,7 +2,7 @@
 layout: default
 ---
 
-_Thoughtography by Inominata & 赫连冰子_
+_Thoughtography by Inominata & 赫连冰梓_
 
 [目录](../)
 
